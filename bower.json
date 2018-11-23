@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo_publicar",
+  "homepage": "https://github.com/jhonny-ventiades/ejemplo_bower",
+  "authors": [
+    "jventiades <jhonny.ventiadesg@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
